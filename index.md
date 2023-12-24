@@ -3,5 +3,5 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) alt-text!
 
 ''' typescript
-var mulearnMbcet: string = "GTech Mulearn MBCET.";
+var mulearnMbcet: string = "GTech MuLearn MBCET.";
 '''
